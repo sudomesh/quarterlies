@@ -32,6 +32,7 @@ Blurb of highlights.
 ## Links of Relevance
 Public:
 * https://peoplesopen.net
+* Wiki: https://sudoroom.org/wiki/Mesh
 * Chat at https://peoplesopen.net/chat
 * Mesh mailing list archives: https://sudoroom.org/pipermail/mesh/
 
