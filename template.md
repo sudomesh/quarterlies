@@ -13,10 +13,19 @@ that we sent people to or had a hand in organizing.
 ## Board Meetings
 Link to notes. List important items.
 
-## Node Installations
+## Peoplesopen.net Node Installations
 Summary of node installs.
 No addresses.
 Use names only with permission; otherwise just specify neighborhood.
+
+## Laptops for All
+Blurb of highlights.
+
+- Number of outgoing donations
+- Number of incoming donations
+- Number of devices repaired
+- Total ready to distribute at end of quarter
+- Total needs-repair at end of quarter
 
 ## Financials
 
