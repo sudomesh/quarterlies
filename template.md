@@ -13,12 +13,20 @@ that we sent people to or had a hand in organizing.
 ## Board Meetings
 Link to notes. List important items.
 
-## Peoplesopen.net Node Installations
+## Subprojects
+### Peoplesopen.net Field Reports
 Summary of node installs.
 No addresses.
 Use names only with permission; otherwise just specify neighborhood.
 
-## Laptops for All
+- Number of nodes installed
+- Number of nodes down
+- Number of nodes repaired
+
+### peoplesopen.net/monitor
+Summary of monitor data.
+
+### Laptops for All
 Blurb of highlights.
 
 - Number of outgoing donations
