@@ -33,7 +33,7 @@ Blurb of highlights.
 Public:
 * https://peoplesopen.net
 * Chat at https://peoplesopen.net/chat
-* TODO List serve
+* Mesh mailing list archives: https://sudoroom.org/pipermail/mesh/
 
 Private:
 * https://trello.com/b/DtzngKaM/node-mounts
