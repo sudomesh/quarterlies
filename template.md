@@ -24,7 +24,7 @@ Use names only with permission; otherwise just specify neighborhood.
 ### Laptops for All
 Blurb of highlights.
 
-The following stats can be determined from the spreadsheet:
+The following stats can be determined from the [spreadsheet](https://docs.google.com/spreadsheets/d/1TgDfQAMR-_V0DsV5IimN_lfwdKLBYO3SmaETjxcx_Cg/edit#gid=347086803|):
 - Number of outgoing donations
 - Number of incoming donations
 - Number of devices repaired
