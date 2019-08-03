@@ -1,7 +1,8 @@
 # Sudo Mesh {year} Quarter {quarter}
 {date_completed}
 
-## Projects
+## Recent Projects
+What have we been up to?
 
 ## Press, Policy, & Governance
 Check for local press, governance, policy issues
@@ -15,31 +16,34 @@ Link to notes. List important items.
 
 ## Subprojects
 ### Peoplesopen.net Field Reports
-Summary of node installs.
-No addresses.
+Summarize changes to the network.
+Have we installed or fixed anything?
+Don't include addresses.
 Use names only with permission; otherwise just specify neighborhood.
-
-- Number of nodes installed
-- Number of nodes down
-- Number of nodes repaired
-
-### peoplesopen.net/monitor
-Summary of monitor data.
 
 ### Laptops for All
 Blurb of highlights.
 
+The following stats can be determined from the spreadsheet:
 - Number of outgoing donations
 - Number of incoming donations
 - Number of devices repaired
 - Total ready to distribute at end of quarter
 - Total needs-repair at end of quarter
 
+### 4G Nodes
+We've been working on low-cost 4G solar-powered access points.
+Blurb of highlights.
+
+## Disaster.radio
+Blurb of highlights.
+
 ## Financials
 
 ## Links of Relevance
 Public:
 * https://peoplesopen.net
+* https://disaster.radio
 * Wiki: https://sudoroom.org/wiki/Mesh
 * Chat at https://peoplesopen.net/chat
 * Mesh mailing list archives: https://sudoroom.org/pipermail/mesh/
