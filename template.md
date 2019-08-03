@@ -39,6 +39,9 @@ Blurb of highlights.
 Blurb of highlights.
 
 ## Financials
+Summarize major and recurring expenses, any substantial sources of income.
+
+Quarterly reports generated from Quickbooks are uploaded to this folder: https://github.com/sudomesh/quarterlies/tree/master/reports/financial
 
 ## Links of Relevance
 Public:
