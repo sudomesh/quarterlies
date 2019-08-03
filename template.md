@@ -34,6 +34,13 @@ The following stats can be determined from the [spreadsheet](https://docs.google
 ### 4G Nodes
 We've been working on low-cost 4G solar-powered access points.
 Blurb of highlights.
+* stuff about FCC issues
+* stuff about Oakland bureaucracy and pricing
+
+### Librerouter
+
+* Talk about how Nico showed us the flaws in version 1.0 of librerouter
+* Librerouter is split into a core circuit board and a breakout board. The current issues are on the breakout board which is much easier to work on since components and traces aren't as tiny. Librerouter has agreed to ship us some of the core modules so we can attempt work on the breakout board design to attempt to fix the issues and test with the offical core modules.
 
 ## Disaster.radio
 Blurb of highlights.
