@@ -1,0 +1,44 @@
+Sudo Mesh,
+Balance Sheet,
+"As of September 30, 2019",
+,
+,Total
+ASSETS,
+   Current Assets,
+      Bank Accounts,
+         1000 Cash,
+            1010 Operating Checking,"1,821.85   "
+            1020 People's Open Network,"5,481.37   "
+            1030 Disaster Radio,942.88   
+            1050 Savings,"53,008.86   "
+            1060 Laptops4All,516.90   
+         Total 1000 Cash,"$61,771.86   "
+         PayPal Bank,11.32   
+      Total Bank Accounts,"$61,783.18   "
+      Other Current Assets,
+         1300 Inventory Asset,"8,409.57   "
+         Undeposited Funds,0.00   
+      Total Other Current Assets,"$8,409.57   "
+   Total Current Assets,"$70,192.75   "
+TOTAL ASSETS,"$70,192.75   "
+LIABILITIES AND EQUITY,
+   Liabilities,
+      Current Liabilities,
+         Accounts Payable,
+            2000 Accounts Payable (A/P),300.00   
+         Total Accounts Payable,$300.00   
+         Other Current Liabilities,
+            2500 Short-Term Notes & Loans Payable,"2,000.00   "
+         Total Other Current Liabilities,"$2,000.00   "
+      Total Current Liabilities,"$2,300.00   "
+   Total Liabilities,"$2,300.00   "
+   Equity,
+      3000 Opening Balance Equity,"2,100.00   "
+      Retained Earnings,"76,256.89   "
+      Net Income,"-10,464.14   "
+   Total Equity,"$67,892.75   "
+TOTAL LIABILITIES AND EQUITY,"$70,192.75   "
+,
+,
+,
+"Monday, Nov 04, 2019 10:19:28 PM GMT-8 - Accrual Basis",
